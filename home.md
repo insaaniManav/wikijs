@@ -1,8 +1,8 @@
 ---
-title: home
+title: Home
 description: Things I tend to forget about
 published: 1
-date: 2021-04-18T12:24:05.187Z
+date: 2021-04-18T16:23:32.193Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-18T12:23:58.546Z
